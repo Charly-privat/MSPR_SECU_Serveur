@@ -16,6 +16,8 @@ public class User {
 
     private String prenom;
 
+    public User(){}
+
     public User(long id, String nom, String prenom) {
         this.id = id;
         this.nom = nom;
