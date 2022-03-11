@@ -12,15 +12,15 @@ public class User {
     @Id
     private long id;
 
-    private String nom;
+    private String login;
 
-    private String prenom;
+    private String password;
 
     public User(){}
 
-    public User(long id, String nom, String prenom) {
+    public User(long id, String login, String password) {
         this.id = id;
-        this.nom = nom;
-        this.prenom = prenom;
+        this.login = login;
+        this.password = password;
     }
 }
