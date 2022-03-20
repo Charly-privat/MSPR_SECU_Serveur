@@ -8,8 +8,6 @@ public class Email {
     private String subject = "Mail de vérification";
     private String body;
 
-    public Email() {}
-
     public Email(String toEmail, String body) {
         this.toEmail = toEmail;
         this.subject = "Mail de vérification";

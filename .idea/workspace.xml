@@ -4,23 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8071953b-f392-41ae-94a2-7a0455f86288" name="Changes" comment="mise en fonction du post">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/MSPRSecuServeur/MsprSecuServeur/controller/EmailController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/MSPRSecuServeur/MsprSecuServeur/model/Email.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/MSPRSecuServeur/MsprSecuServeur/MsprSecuServeurApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/MSPRSecuServeur/MsprSecuServeur/controller/LoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/MSPRSecuServeur/MsprSecuServeur/model/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/MSPRSecuServeur/MsprSecuServeur/services/EmailSenderService.class" afterDir="false" />
+    <list default="true" id="8071953b-f392-41ae-94a2-7a0455f86288" name="Changes" comment="envoie de mail via POST.&#10;mise à jour de l'URL pour les logins.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/MSPRSecuServeur/MsprSecuServeur/controller/EmailController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MSPRSecuServeur/MsprSecuServeur/controller/EmailController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MSPRSecuServeur/MsprSecuServeur/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MSPRSecuServeur/MsprSecuServeur/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/MSPRSecuServeur/MsprSecuServeur/model/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MSPRSecuServeur/MsprSecuServeur/model/Email.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/MSPRSecuServeur/MsprSecuServeur/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MSPRSecuServeur/MsprSecuServeur/model/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MSPRSecuServeur/MsprSecuServeur/services/EmailSenderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MSPRSecuServeur/MsprSecuServeur/services/EmailSenderService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -159,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646919165734</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="envoie de mail via POST.&#10;mise à jour de l'URL pour les logins.">
+      <created>1647006829589</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1647006829589</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,6 +177,7 @@
     <MESSAGE value="test getUser" />
     <MESSAGE value="mis à jour du controller + ajout d'un envoie de mail" />
     <MESSAGE value="mise en fonction du post" />
-    <option name="LAST_COMMIT_MESSAGE" value="mise en fonction du post" />
+    <MESSAGE value="envoie de mail via POST.&#10;mise à jour de l'URL pour les logins." />
+    <option name="LAST_COMMIT_MESSAGE" value="envoie de mail via POST.&#10;mise à jour de l'URL pour les logins." />
   </component>
 </project>
