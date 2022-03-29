@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.*;
 public class LoginController {
 
     @GetMapping("/")
-    public User getLogin(){
-        return new User(1, "charly", "privat", "charly74cp00@gmail.com");
+    public User getLogin(@RequestBody User user){
+        return user;
     }
 
     @PostMapping("/")

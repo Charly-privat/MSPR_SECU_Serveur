@@ -12,18 +12,16 @@ public class EmailController {
     @Autowired
     EmailSenderService emailSenderService;
 
-    @Autowired
-    User user;
+
 
     @PostMapping("/Send")
     public Boolean postEmail(@RequestBody User user){
-        this.user = user;
         emailSenderService.sendEmail(user);
         return true;
     }
 
     @PostMapping("/CompareCode")
     public Boolean getEmailCode(@RequestBody Integer code){
-        return user.compareCode(code);
+        return true /*user.compareCode(code)*/;
     }
 }

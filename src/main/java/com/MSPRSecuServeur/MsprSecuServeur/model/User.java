@@ -16,6 +16,8 @@ public class User {
 
     private String prenom;
 
+    private String email;
+
     public User(){}
 
     private int code;
