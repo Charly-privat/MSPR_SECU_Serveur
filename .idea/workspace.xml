@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21436973-64c8-4ff1-9067-64ed01f354ff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/MSPRSecuServeur/MsprSecuServeur/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/MSPRSecuServeur/MsprSecuServeur/controller/EmailController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MSPRSecuServeur/MsprSecuServeur/controller/EmailController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/MSPRSecuServeur/MsprSecuServeur/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MSPRSecuServeur/MsprSecuServeur/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/MSPRSecuServeur/MsprSecuServeur/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MSPRSecuServeur/MsprSecuServeur/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/MSPRSecuServeur/MsprSecuServeur/services/EmailSenderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MSPRSecuServeur/MsprSecuServeur/services/EmailSenderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/MSPRSecuServeur/MsprSecuServeur/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/MSPRSecuServeur/MsprSecuServeur/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/MSPRSecuServeur/MsprSecuServeur/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/MSPRSecuServeur/MsprSecuServeur/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/MSPRSecuServeur/MsprSecuServeur/services/EmailSenderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/MSPRSecuServeur/MsprSecuServeur/services/EmailSenderService.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="24EkrptaEPqAmCWftMWzBFqwlHc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.MsprSecuServeurApplication (1)">
+    <configuration name="MsprSecuServeurApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.MSPRSecuServeur.MsprSecuServeur.MsprSecuServeurApplication" />
+      <module name="msprSecuServeur" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.MSPRSecuServeur.MsprSecuServeur.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsprSecuServeurApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.MsprSecuServeur.msprSecuServeur.MsprSecuServeurApplication" />
+      <module name="msprSecuServeur" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.MsprSecuServeur.msprSecuServeur.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MsprSecuServeurApplication (1)" />
+        <item itemvalue="Application.MsprSecuServeurApplication" />
+        <item itemvalue="Application.MsprSecuServeurApplication" />
+        <item itemvalue="Application.MsprSecuServeurApplication" />
+        <item itemvalue="Application.MsprSecuServeurApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8071953b-f392-41ae-94a2-7a0455f86288" name="Changes" comment="" />
+      <created>1643203339209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643203339209</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initialisation projet">
+      <created>1643203453071</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643203453071</updated>
+    </task>
+    <task id="LOCAL-00002" summary="getLogin">
+      <created>1644999588223</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644999588223</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Nouvelle version">
+      <created>1646905657467</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646905657467</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test getUser">
+      <created>1646906592845</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1646906592845</updated>
+    </task>
+    <task id="LOCAL-00005" summary="mis à jour du controller + ajout d'un envoie de mail">
+      <created>1646907694477</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1646907694477</updated>
+    </task>
+    <task id="LOCAL-00006" summary="mise en fonction du post">
+      <created>1646919165734</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1646919165734</updated>
+    </task>
+    <task id="LOCAL-00007" summary="envoie de mail via POST.&#10;mise à jour de l'URL pour les logins.">
+      <created>1647006829589</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1647006829589</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initialisation projet" />
+    <MESSAGE value="getLogin" />
+    <MESSAGE value="Nouvelle version" />
+    <MESSAGE value="test getUser" />
+    <MESSAGE value="mis à jour du controller + ajout d'un envoie de mail" />
+    <MESSAGE value="mise en fonction du post" />
+    <MESSAGE value="envoie de mail via POST.&#10;mise à jour de l'URL pour les logins." />
+    <option name="LAST_COMMIT_MESSAGE" value="envoie de mail via POST.&#10;mise à jour de l'URL pour les logins." />
+  </component>
+</project>

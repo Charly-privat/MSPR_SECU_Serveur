@@ -1,20 +1,19 @@
-package com.MsprSecuServeur.msprSecuServeur.controller;
+package com.MSPRSecuServeur.MsprSecuServeur.controller;
 
-import com.MsprSecuServeur.msprSecuServeur.model.Utilisateur;
-import org.springframework.http.HttpEntity;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
+import com.MSPRSecuServeur.MsprSecuServeur.model.User;
 import org.springframework.web.bind.annotation.*;
 
-@RestController
-@CrossOrigin(origins = "http://localhost:8081")
-public class LoginController{
+@RestController()
+@RequestMapping("/login")
+public class LoginController {
 
-    @GetMapping
-    public ResponseEntity getLogin(@RequestBody Utilisateur user){
-        System.out.println(user.toString());
-        return ResponseEntity.ok(HttpStatus.OK);
+    @GetMapping("/")
+    public User getLogin(@RequestBody User user){
+        return user;
     }
 
-
+    @PostMapping("/")
+    public Boolean postLogin(@RequestBody User user){
+        return true;
+    }
 }
